@@ -37,7 +37,7 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 - Learn how to perform CRUD operations using Spring Data JPA and PostgreSQL as the database.
 
 
-### Main Classes
+## Main Classes
 
 - [`DemoApplication`](src/main/java/com/example/demo/DemoApplication.java): The main entry point of the Spring Boot application.
 - [`AdressesController`](src/main/java/com/example/demo/AdressesController.java): The REST controller that handles HTTP requests.
@@ -45,7 +45,7 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 - [`AddressRepository`](src/main/java/com/example/demo/repository/AddressRepository.java): The JPA repository interface for `Address` entities.
 - [`Address`](src/main/java/com/example/demo/Address.java): The entity class representing an address.
 
-### Configuration
+## Configuration
 
 - [`application.properties`](src/main/resources/application.properties): Contains configuration properties for the Spring Boot application.
 
